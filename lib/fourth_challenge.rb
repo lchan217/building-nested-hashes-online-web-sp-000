@@ -8,7 +8,6 @@ def fourth_challenge
         {name: "Benvolio", age: "17", attutide: "worried"}
         {name: "Mercutio", age: "18", attitude: "hot-headed"}
       }
-        #your hashes here!
       ]
    }, 
    :capulet => {
